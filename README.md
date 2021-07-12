@@ -12,32 +12,6 @@ The application is about sharing users' opinions and ideas about available books
 - Semantic UI react
 - PrimeReact
 
-### WireFrame
-- Landing page
-<img src="images/LandingPage.png" width="300" height="300" >
-
-
-- Profile page 
-<img src="images/Profile.png" width="300" height="300" >
-
-- SerachByBook.png
-<img src="images/SerachByBook.png" width="300" height="300">
-
-
-- SearchByUser.png
-<img src="images/SearchByUser.png" width="300" height="300">
-
-
-- Reads-ToRead.png
-<img src="images/Reads-ToRead.png" width="300" height="300">
-
-
-- Following-Followers.png
-<img src="images/Following-Followers.png" width="300" height="300">
-
-
-- Recommedations.png
-<img src="images/Recommedations.png" width="300" height="300">
 
 ### User Stories
 Users have to sign up first then log in to be able to :
